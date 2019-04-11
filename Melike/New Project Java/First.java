@@ -2,7 +2,7 @@
 /**
  * Write a description of class First here.
  *
- * @author (your name)
+ * @author (Melike Akkan)
  * @version (a version number or a date)
  */
 public class First
@@ -15,8 +15,6 @@ public class First
     private boolean isTrue = false;
     private char c = 'c';
     private long l = 123123123;
-    
-    
 
     /**
      * Constructor for objects of class First
@@ -24,19 +22,15 @@ public class First
     public First()
     {
         // initialise instance variables
-        x = 10;
+        x = 0;
     }
-    public First(int a, double e)
+  
+    public First(int a,double e)
     {
-        x = x + a;
-        y = y + e;
-      
+      x = x + a;
+      y= y + e;
     }
-     
-   
-        
-      
-       
+
     /**
      * An example of a method - replace this comment with your own
      *
