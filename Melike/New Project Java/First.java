@@ -2,7 +2,7 @@
 /**
  * Write a description of class First here.
  *
- * @author (Myanganbayar Nyamdavaa)
+ * @author (Melike Akkan)
  * @version (a version number or a date)
  */
 public class First
@@ -24,11 +24,11 @@ public class First
         // initialise instance variables
         x = 0;
     }
-    
-    public First(int a, double e)
+  
+    public First(int a,double e)
     {
-        x = x + a;
-        y = y + e;
+      x = x + a;
+      y= y + e;
     }
 
     /**
@@ -43,4 +43,3 @@ public class First
         return x + y;
     }
 }
-

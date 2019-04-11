@@ -6,17 +6,15 @@ public class Human
     private boolean isMan;
     private String educated;
     
-    
-    public Human(int h, int w)
+    public Human (int h, int w)
     {
         height = height + h;
         weight = weight + w;
         isMan = false;
-        educated = "Not educated";
-        
+        educated = "Not educated"
+ 
     }
-    public int getHeight()
+public int getHeight()
     {
         return height;
-    }
 }

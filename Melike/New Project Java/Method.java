@@ -1,8 +1,8 @@
 
 public class Method
 {
-    public int weight = 185;
-    public int height = 85;
+    public int height = 185;
+    public int weight = 85;
     
     public int getHeight()
     {
