@@ -1,35 +1,22 @@
 
 /**
- * Write a description of class First here.
+ * Write a description of class PrintMyName here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class First
+public class PrintMyName
 {
     // instance variables - replace the example below with your own
-    private int x = 100;
-    private double y = 10.0;
-    private float z = 20.0f;
-    private String text = "Txt";
-    private boolean isTrue = false;
-    private char c = 'c'; 
-    private long l = 123123123;
-    
+    private int x;
 
     /**
-     * Constructor for objects of class First
+     * Constructor for objects of class PrintMyName
      */
-    public First()
+    public PrintMyName()
     {
         // initialise instance variables
-        x = 10;
-    }
-    public First(int a, double e)
-    {
-       x = x + a;
-       y = y + e; 
-       
+        x = 0;
     }
 
     /**
