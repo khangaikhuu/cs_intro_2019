@@ -7,12 +7,12 @@
  */
 public class First
 {
-    // instance variables - replace the example below with your own
-    private int x = 100;                                                                                                                                                                                                                 ;
+    // instance variables - replace the example below with your own    private int x +
+    private int x = 100;
     private double y = 10.0;
     private float z = 20.0f;
-    private String myString = "Text";
-    private boolean isTrue = true;
+    private String text = "Txt";
+    private boolean isTrue = false;
     private char c = 'c';
     private long l = 123123123;
 
@@ -21,15 +21,16 @@ public class First
      */
     public First()
     {
+        // initialise instance variables
         x = 0;
     }
     public First(int a, double e)
     {
-        // initialise instance variables
-        x = x + a;
-        y = x + 2;
+     x = x + a;
+     y = y + e;
+     
     }
-    
+
     /**
      * An example of a method - replace this comment with your own
      *
