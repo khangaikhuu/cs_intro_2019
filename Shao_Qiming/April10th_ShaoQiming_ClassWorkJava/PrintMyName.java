@@ -1,14 +1,14 @@
 public class PrintMyName
 {
-    private String a = "";
+    private String name = "Qiming";
     
-    public String setName()
+    public void setName(String n)
     {
-        
+        name = n;
     }
     public String GetName()
     {
-       return a;
+       return name;
     }
     
 }
