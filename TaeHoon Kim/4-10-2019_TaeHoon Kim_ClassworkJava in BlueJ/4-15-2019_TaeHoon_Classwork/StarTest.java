@@ -10,6 +10,11 @@ public class StarTest
     public void testMyMethod()
     {
         Star s1 = new Star();
-        assertEquals(5, s1.getA());
+        assertEquals(4, s1.getA());
+        assertEquals(5, s1.getB());
+        s1.setB(100);
+        assertEquals(4, s1.getA());
+        assertEquals(100, s1.getB());
+        
     }
 }
