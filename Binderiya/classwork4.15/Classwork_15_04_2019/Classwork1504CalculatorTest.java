@@ -20,6 +20,7 @@ public class Classwork1504CalculatorTest
         assertEquals(25, c1.calculateMultiplication(5,5));
         assertEquals(1, c1.calculateDivision(5,5));
         assertEquals(0, c1.calculateModulo(25, 5));
+        assertEquals(0, c1.calculateModulo(25, 5));
       }
     
 
