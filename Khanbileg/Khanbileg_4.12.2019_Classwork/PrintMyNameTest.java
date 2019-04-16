@@ -12,5 +12,5 @@ public class PrintMyNameTest
     public void nameTest()
     {
         JavaOperation j = new JavaOperation();
-        
+    }
 }
