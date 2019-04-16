@@ -25,7 +25,7 @@ public class CalculatorTest
        assertEquals(2, c1.getDivision(4,2));
        assertEquals(3, c1.getDivision(9,3));
        
-       assertEquals(5, c1.getModulo(100,5));
-       assertEquals(25, c1.getModulo(100,25));
+       assertEquals(1, c1.getModulo(5,4));
+       assertEquals(2, c1.getModulo(16,7));
     }
 }
