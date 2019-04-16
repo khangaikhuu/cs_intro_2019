@@ -5,6 +5,7 @@ dependency1.type=UsesDependency
 dependency2.from=JavaCalculatorTest
 dependency2.to=JavaCalculator
 dependency2.type=UsesDependency
+<<<<<<< HEAD
 editor.fx.0.height=739
 editor.fx.0.width=816
 editor.fx.0.x=392
@@ -18,6 +19,21 @@ package.editor.width=670
 package.editor.x=498
 package.editor.y=105
 package.frame.height=600
+=======
+editor.fx.0.height=860
+editor.fx.0.width=800
+editor.fx.0.x=0
+editor.fx.0.y=0
+objectbench.height=113
+objectbench.width=760
+package.divider.horizontal=0.6
+package.divider.vertical=0.8479087452471483
+package.editor.height=662
+package.editor.width=670
+package.editor.x=743
+package.editor.y=60
+package.frame.height=888
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 package.frame.width=800
 package.numDependencies=2
 package.numTargets=4
@@ -29,31 +45,57 @@ readme.name=@README
 readme.width=47
 readme.x=10
 readme.y=10
+<<<<<<< HEAD
+=======
+target1.association=JavaCalculatorTest
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 target1.height=50
 target1.name=JavaCalculator
 target1.showInterface=false
 target1.type=ClassTarget
 target1.width=110
+<<<<<<< HEAD
 target1.x=130
 target1.y=10
+=======
+target1.x=360
+target1.y=190
+target2.association=StarTest
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 target2.height=50
 target2.name=Star
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=80
+<<<<<<< HEAD
 target2.x=70
 target2.y=70
+=======
+target2.x=160
+target2.y=120
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 target3.height=50
 target3.name=StarTest
 target3.showInterface=false
 target3.type=UnitTestTargetJunit4
 target3.width=80
+<<<<<<< HEAD
 target3.x=160
 target3.y=70
+=======
+target3.x=190
+target3.y=90
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 target4.height=50
 target4.name=JavaCalculatorTest
 target4.showInterface=false
 target4.type=UnitTestTargetJunit4
+<<<<<<< HEAD
 target4.width=140
 target4.x=10
 target4.y=130
+=======
+target4.width=110
+target4.x=390
+target4.y=160
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
