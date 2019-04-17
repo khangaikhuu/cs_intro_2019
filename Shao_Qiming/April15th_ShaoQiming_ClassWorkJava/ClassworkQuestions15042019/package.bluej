@@ -2,11 +2,12 @@
 dependency1.from=CalculatorTest
 dependency1.to=Calculator
 dependency1.type=UsesDependency
-editor.fx.0.height=735
-editor.fx.0.width=697
-editor.fx.0.x=676
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
 editor.fx.0.y=0
 objectbench.height=310
+<<<<<<< HEAD
 objectbench.width=390
 package.divider.horizontal=0.6006051437216339
 package.divider.vertical=0.5007874015748032
@@ -14,11 +15,20 @@ package.editor.height=311
 package.editor.width=567
 package.editor.x=100
 package.editor.y=100
+=======
+objectbench.width=657
+package.divider.horizontal=0.6
+package.divider.vertical=0.5007874015748032
+package.editor.height=311
+package.editor.width=567
+package.editor.x=676
+package.editor.y=0
+>>>>>>> 97585ff6b13d639bc5264d6a779b7db97abffded
 package.frame.height=735
 package.frame.width=697
 package.numDependencies=1
 package.numTargets=2
-package.showExtends=true
+package.showExtends=false
 package.showUses=true
 project.charset=UTF-8
 readme.height=58

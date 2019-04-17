@@ -1,0 +1,33 @@
+#BlueJ package file
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+<<<<<<< HEAD:Anudari/190411_Anudari_Classwork/190411_Anudari_ClassMathematik/package.bluej
+objectbench.height=95
+objectbench.width=451
+package.divider.horizontal=0.599476439790576
+package.divider.vertical=0.7404580152671756
+package.editor.height=284
+=======
+objectbench.height=93
+objectbench.width=760
+package.divider.horizontal=0.6
+package.divider.vertical=0.8
+package.editor.height=393
+>>>>>>> 97585ff6b13d639bc5264d6a779b7db97abffded:Anudari/190412_Anudari_Classwork/package.bluej
+package.editor.width=670
+package.editor.x=439
+package.editor.y=85
+package.frame.height=600
+package.frame.width=800
+package.numDependencies=0
+package.numTargets=0
+package.showExtends=true
+package.showUses=true
+project.charset=UTF-8
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
