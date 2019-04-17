@@ -9,6 +9,7 @@ public class PrintMyNameTest
  @Test
  public void nameTest()
  {
-     JavaOperation j = new JavaOperation();
-     
+     PrintMyName j = new PrintMyName();
+     assertEquals("Bilegt", j.getName());
+    }
 }
