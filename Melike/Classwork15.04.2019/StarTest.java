@@ -17,7 +17,7 @@ public class StarTest
        s1.setA(5);
        s1.setB(5);
        assertEquals(5, s1.getA());
-       assertEquals(4, s1.getA());
+       assertEquals(5, s1.getA());
        
     }
 }
