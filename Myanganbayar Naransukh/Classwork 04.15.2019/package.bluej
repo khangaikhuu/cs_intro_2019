@@ -5,6 +5,17 @@ dependency1.type=UsesDependency
 dependency2.from=StarTest
 dependency2.to=Star
 dependency2.type=UsesDependency
+<<<<<<< HEAD
+editor.fx.0.height=612
+editor.fx.0.width=655
+editor.fx.0.x=297
+editor.fx.0.y=41
+objectbench.height=95
+objectbench.width=451
+package.divider.horizontal=0.599476439790576
+package.divider.vertical=0.796
+package.editor.height=391
+=======
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
@@ -14,6 +25,7 @@ objectbench.width=760
 package.divider.horizontal=0.6
 package.divider.vertical=0.7987927565392354
 package.editor.height=390
+>>>>>>> 004f6c3c8bb6c07c31d8122d353e23e68dfb3cbe
 package.editor.width=670
 package.editor.x=180
 package.editor.y=180
