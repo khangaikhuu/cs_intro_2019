@@ -2,16 +2,17 @@
 dependency1.from=ClassworkOneTest
 dependency1.to=ClassworkOne
 dependency1.type=UsesDependency
-dependency2.from=ClassworkTwoTest
-dependency2.to=ClassworkTwo
+dependency2.from=ClassworkThreeTest
+dependency2.to=ClassworkThree
 dependency2.type=UsesDependency
-dependency3.from=ClassworkThreeTest
-dependency3.to=ClassworkThree
+dependency3.from=ClassworkTwoTest
+dependency3.to=ClassworkTwo
 dependency3.type=UsesDependency
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
+<<<<<<< HEAD
 objectbench.height=93
 objectbench.width=657
 package.divider.horizontal=0.6
@@ -22,6 +23,18 @@ package.editor.x=676
 package.editor.y=0
 package.frame.height=735
 package.frame.width=697
+=======
+objectbench.height=95
+objectbench.width=451
+package.divider.horizontal=0.599476439790576
+package.divider.vertical=0.796
+package.editor.height=391
+package.editor.width=670
+package.editor.x=86
+package.editor.y=101
+package.frame.height=600
+package.frame.width=800
+>>>>>>> 3979a2523006b6db4d50991b6ed2c0182e990ce4
 package.numDependencies=3
 package.numTargets=6
 package.showExtends=true
