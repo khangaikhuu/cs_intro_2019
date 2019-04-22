@@ -1,4 +1,24 @@
 #BlueJ package file
+<<<<<<< HEAD
+dependency1.from=JavaOperationsTest
+dependency1.to=JavaOperations
+dependency1.type=UsesDependency
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=665
+editor.fx.0.y=107
+objectbench.height=95
+objectbench.width=511
+package.divider.horizontal=0.5859728506787331
+package.divider.vertical=0.7671232876712328
+package.editor.height=329
+package.editor.width=790
+package.editor.x=517
+package.editor.y=216
+package.frame.height=538
+package.frame.width=920
+package.numDependencies=1
+=======
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
@@ -14,6 +34,7 @@ package.editor.y=470
 package.frame.height=389
 package.frame.width=800
 package.numDependencies=0
+>>>>>>> 97585ff6b13d639bc5264d6a779b7db97abffded
 package.numTargets=3
 package.showExtends=true
 package.showUses=true
