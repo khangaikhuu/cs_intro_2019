@@ -17,5 +17,12 @@ public class ClassworkTwo
     { 
         return b;
     } 
-    
+    public void setGang(float a) 
+    { 
+        a = a; 
+    }
+    public void setBruh(double b)
+    { 
+        b = b;
+    } 
 }
