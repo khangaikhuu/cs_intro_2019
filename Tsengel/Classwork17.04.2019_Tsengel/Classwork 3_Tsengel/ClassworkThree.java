@@ -2,9 +2,13 @@
 public class ClassworkThree
 {
     private int x;
-    public int getX()
+    public int getX(int x)
     {
-        for(int i = 1; i <= x; i++)
+        return x;
+    }
+    public int multiplication(int parameter)
+    {
+        for(int i = 1; i <= parameter; i++)
         {
             x = x + 1;
         }

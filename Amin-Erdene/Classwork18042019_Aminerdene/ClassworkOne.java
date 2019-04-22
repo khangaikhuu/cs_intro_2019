@@ -1,17 +1,21 @@
-
 public class ClassworkOne
 {
     private int a = 1;
+    public ClassworkOne(int a)
     {
         a = a;
     }
-    
-    public int LoopNumbers (int loop)
+    public int getA()
     {
-        for (int i = 1; i <=loop; i ++)
-        {
-            a = a + 2;
-        }
         return a;
+    }
+    public int getLoop (int a)
+    {
+        int c = 1;
+        for (int i = 1; i <= a; i ++)
+        {
+            c = c * a;
+        }
+        return c;
     }
 }

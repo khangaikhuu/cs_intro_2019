@@ -10,6 +10,7 @@ public class ClassworkThreeTest
    public void testThree()
    {
        ClassworkThree c = new ClassworkThree();
-       assertEquals(1, c.getX(), 1);
+       assertEquals(1, c.getX(1));
+       assertEquals(2, c.multiplication(2));
     }
 }

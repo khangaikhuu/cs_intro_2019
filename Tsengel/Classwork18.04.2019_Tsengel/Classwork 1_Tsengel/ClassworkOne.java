@@ -11,9 +11,13 @@ public class ClassworkOne
    {
        return a;
    }
-   public 
-   public int get()
+   public int getLoop(int a)
    {
-       for (int
+       int c = 1;
+       for (int i = 1; i <= a; i++)
+       {
+           c = c * a;
+       }
+       return c;
    }
 }
