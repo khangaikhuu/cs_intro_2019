@@ -1,33 +1,29 @@
 
-/**
- * Write a description of class classworkONE here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
-public class classworkONE
+public class ClassworkOne
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class classworkONE
-     */
-    public classworkONE()
+    private int a;
+    private boolean b;
+    private String c;
+    public ClassworkOne()
     {
-        // initialise instance variables
-        x = 0;
+         
     }
-
-    /**
-     * An example of a method - replace this comment with your own
-     *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
-     */
-    public int sampleMethod(int y)
+    public ClassworkOne( int a, boolean b, String c)
     {
-        // put your code here
-        return x + y;
+        a = a;
+        b = b;
+        c = c;
     }
-}
+    public int getA(int a)
+    {
+        return a;
+    }
+    public boolean getB(boolean b)
+    {
+        return b;
+    }
+    public String getC(String c)
+    {
+        return c;
+    }
+    }
