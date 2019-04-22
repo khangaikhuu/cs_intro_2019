@@ -1,8 +1,8 @@
 
 public class ClassworkTwo
 {
-   private float a = 16;
-   private double b = 32;
+   private float a = 0.0f;
+   private double b = 0.0;
    
    public ClassworkTwo(float abc, double b)
    {
@@ -17,12 +17,12 @@ public class ClassworkTwo
    {
        return b;
     }
-   public double setA()
+   public void setA(float num1)
    {
-       return a;
+       a = num1;
     }
-   public double setB()
+   public void setB(double num2)
    {
-       return b;
+       b = num2;
     }
 }
