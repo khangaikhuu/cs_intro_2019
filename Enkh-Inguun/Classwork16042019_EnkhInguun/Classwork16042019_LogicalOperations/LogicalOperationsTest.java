@@ -5,38 +5,24 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * The test class LogicalOperationsTest.
- *
- * @author  (your name)
- * @version (a version number or a date)
- */
 public class LogicalOperationsTest
 {
-    /**
-     * Default constructor for test class LogicalOperationsTest
-     */
-    public LogicalOperationsTest()
+    @Test
+    public void testMyMethod()
     {
-    }
-
-    /**
-     * Sets up the test fixture.
-     *
-     * Called before every test case method.
-     */
-    @Before
-    public void setUp()
-    {
-    }
-
-    /**
-     * Tears down the test fixture.
-     *
-     * Called after every test case method.
-     */
-    @After
-    public void tearDown()
-    {
+        LogicalOperations L1 = new LogicalOperations();
+        assertEquals (true,L1.isEqual (1,1));
+        assertEquals (true,L1.isEqual (2,2));
+        assertEquals (true,L1.notEqual (3,2));
+        assertEquals (true,L1.notEqual (1,4));
+        assertEquals (true,L1.lessThan (1,4));
+        assertEquals (true,L1.lessThan (1,6));
+        assertEquals (true,L1.LessThanOrEqual (1,5));
+        assertEquals (true,L1.LessThanOrEqual (1,1));
+        assertEquals (true,L1.greaterThan (5,1));
+        assertEquals (true,L1.greaterThan (9,1));
+        assertEquals (true,L1.greaterThanOrEqual (5,1));
+        assertEquals (true,L1.greaterThanOrEqual (1,1));
+        
     }
 }
