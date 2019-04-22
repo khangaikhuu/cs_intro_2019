@@ -8,10 +8,10 @@ import org.junit.Test;
 
 public class ClassworkThreeTest
 {
-    @Test
-    public void testClassworkThree()
-    {
-        ClassworkThree c4 = new ClassworkThree();
-        assertEquals(12, c4.getI(11));
+   @Test
+   public void testClassworkThree()
+   {
+       ClassworkThree c4 = new ClassworkThree();
+       assertEquals(21, c4.getI(11));
     }
 }
