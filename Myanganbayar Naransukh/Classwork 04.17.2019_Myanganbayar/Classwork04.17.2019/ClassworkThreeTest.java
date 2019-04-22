@@ -12,6 +12,6 @@ public class ClassworkThreeTest
     {
         ClassworkThree c1 = new ClassworkThree();
         assertEquals(20, c1.getI(20));
-        assertEquals(20, c1.loopI(20));
+        assertEquals(400, c1.loopI(20));
     }
 }

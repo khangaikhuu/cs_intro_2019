@@ -8,7 +8,7 @@ public class ClassworkThree
     }
     public int loopI(int l)
     {
-        for (int i = 20; i <= 20; i++)
+        for (int i = 1; i <= l; i++)
         {
             a = a + 20;
         }
