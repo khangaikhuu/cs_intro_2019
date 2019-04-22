@@ -1,23 +1,22 @@
 
 public class ClassworkOne
 {
-    private int a = 0;
+    private int a;
     
-    public ClassworkOne (int abc)
+    public ClassworkOne (int a)
     {
-        int a = abc;
+        int a = a;
     }
     public int getA ()
     {
         return a;
     }
-    public int getLoop (int a)
+    public int seta (int a)
     {
-        int b = 1;
         for (int i=1; i<= a; i++)
         {
-            b = b * a;
+            a = a * 2;
         }
-        return b;
+        return a;
     }
 }

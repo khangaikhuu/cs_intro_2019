@@ -1,4 +1,5 @@
 
+
 public class ClassworkTwo
 {
     private float a;
@@ -11,12 +12,19 @@ public class ClassworkTwo
     }
     public float getA()
     {
-        return a;
+       return a;
     }
     public double getB()
     {
         return b;
     }
-    
+    public void setA()
+    {
+        a = a;
+    }
+    public void setB()
+    {
+        b = b;
+    }
     
 }
