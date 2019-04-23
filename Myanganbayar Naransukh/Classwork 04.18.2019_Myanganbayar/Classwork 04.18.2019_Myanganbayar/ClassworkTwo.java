@@ -1,9 +1,10 @@
+
 public class ClassworkTwo
 {
     private int a;
     private int b;
-    public ClassworkTwo(int c, int d)
-    {
+    public ClassworkTwo( int c, int d)
+    { 
         a = c;
         b = d;
     }
@@ -26,11 +27,10 @@ public class ClassworkTwo
     public int calcProduct(int e)
     {
         int o = 0;
-        for (int i = 1; i < 2; i++)
+        for (int i =1; i < 2; i++)
         {
             o = e * o;
         }
         return o;
     }
 }
-
