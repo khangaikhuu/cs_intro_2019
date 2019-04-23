@@ -4,38 +4,38 @@ public class ClassworkTwo
 {
     private int a;
     private int b;
-    public ClassworkTwo(int a, int b)
+    public ClassworkTwo(int parameter1, int parameter2)
     {
-        a = a;
-        b = b;
+        a = parameter1;
+        b = parameter2;
 }
-private int getA ()
+public int getA ()
 {
     return a;
 }
-private int getB ()
+public int getB ()
 {
     return b;
 }
-private int getSum() 
+public int getSum() 
 {
     return a + b;
 }
   
    
-private int getQuiotient()
+public int getQuotient()
 {
     return a * b;
 }
 
-private int c = 1;
+public int c = 1;
     public int loopnumbers(int loop)
     {
         for (int i = 1; i <= loop; i++)
         {
-            c = loop * c ;
+            c = c * loop;
         }
-        return c ;
+        return c;
     }
 }
 
