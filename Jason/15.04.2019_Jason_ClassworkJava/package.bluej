@@ -1,10 +1,21 @@
 #BlueJ package file
-dependency1.from=StarTest
-dependency1.to=Star
+dependency1.from=CalculatorTest
+dependency1.to=Calculator
 dependency1.type=UsesDependency
-dependency2.from=CalculatorTest
-dependency2.to=Calculator
+dependency2.from=StarTest
+dependency2.to=Star
 dependency2.type=UsesDependency
+<<<<<<< HEAD
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=392
+editor.fx.0.y=40
+objectbench.height=215
+objectbench.width=595
+package.divider.horizontal=0.599601593625498
+package.divider.vertical=0.65527950310559
+package.editor.height=415
+=======
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
@@ -14,6 +25,7 @@ objectbench.width=1000
 package.divider.horizontal=0.6
 package.divider.vertical=0.6537267080745341
 package.editor.height=414
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 package.editor.width=910
 package.editor.x=-8
 package.editor.y=-8
