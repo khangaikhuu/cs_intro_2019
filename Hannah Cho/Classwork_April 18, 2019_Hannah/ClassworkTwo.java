@@ -9,7 +9,14 @@ public class ClassworkTwo
         a = parameter1;
         b = parameter2;
     }
-    
+    public int getA()
+    {
+        return a;
+    }
+    public int getB()
+    {
+        return b;
+    }
     public int getSum()
     {
         return a + b;
@@ -18,14 +25,12 @@ public class ClassworkTwo
     {
         return a * b;
     }
-    public int getA(int a)
-    {
-        return a;
-    }
+  
     
-    public int loopnumber(int loop)
+    public int c = 1;
+     public int loopnumber(int loop)
     {
-        int c = 1;
+       
         for (int i = 1; i <= loop; i++)
         {
             c = c * loop;

@@ -11,11 +11,11 @@ public class ClassworkTwoTest
     @Test
     public void testClassworkTwo()
     {
-        ClassworkTwo c2 = new ClassworkTwo();
-        assertEquals(, c2.getA());
-        assertEquals(, c2.getSum());
-        assertEquals(, c2.getQuotient());
-        c2.setA(0);
-        assertEquals(1, c2.loopnumber());
+        ClassworkTwo c2 = new ClassworkTwo(6,2);
+        assertEquals(6, c2.getA());
+        assertEquals(2, c2.getB());
+        assertEquals(8, c2.getSum());
+        assertEquals(12, c2.getQuotient());
+        assertEquals(1, c2.loopnumber(1));
     }
 }
