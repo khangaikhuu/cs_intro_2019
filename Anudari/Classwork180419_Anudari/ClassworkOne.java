@@ -1,8 +1,9 @@
+
 public class ClassworkOne
 {
     private int a = 1;
     
-    public ClassworkOne(int parameter)
+    public ClassworkOne (int parameter)
     {
         a = parameter;
     }
@@ -10,11 +11,11 @@ public class ClassworkOne
     {
         return a;
     }
-    public void setA(int parameter)
+      public void setA(int parameter)
     {
         a = parameter;
     }
-    public int loopnumber(int loop)
+  public int loopnumbers(int loop)
     {
         for (int i = 1; i <= loop; i++)
         {
@@ -22,5 +23,5 @@ public class ClassworkOne
         }
         return a;
     }
-    
 }
+    

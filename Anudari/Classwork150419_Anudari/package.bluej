@@ -4,6 +4,20 @@ dependency1.to=Calculator
 dependency1.type=UsesDependency
 editor.fx.0.height=739
 editor.fx.0.width=816
+<<<<<<< HEAD
+editor.fx.0.x=275
+editor.fx.0.y=-4
+objectbench.height=220
+objectbench.width=760
+package.divider.horizontal=0.6
+package.divider.vertical=0.546
+package.editor.height=266
+package.editor.width=670
+package.editor.x=337
+package.editor.y=126
+package.frame.height=600
+package.frame.width=800
+=======
 editor.fx.0.x=392
 editor.fx.0.y=40
 objectbench.height=95
@@ -16,6 +30,7 @@ package.editor.x=-8
 package.editor.y=-8
 package.frame.height=876
 package.frame.width=1616
+>>>>>>> 75224a8ac237d33c568bb51becfe821c9af27bec
 package.numDependencies=1
 package.numTargets=2
 package.showExtends=true
