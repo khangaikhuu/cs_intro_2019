@@ -8,6 +8,7 @@ dependency2.type=UsesDependency
 dependency3.from=ClassworkThreeTest
 dependency3.to=ClassworkThree
 dependency3.type=UsesDependency
+<<<<<<< HEAD:Myanganbayar Naransukh/Classwork 04.17.2019_Myanganbayar/Classwork04.17.2019/package.bluej
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
@@ -17,6 +18,17 @@ objectbench.width=760
 package.divider.horizontal=0.6
 package.divider.vertical=0.8003992015968064
 package.editor.height=394
+=======
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=275
+editor.fx.0.y=-4
+objectbench.height=95
+objectbench.width=760
+package.divider.horizontal=0.599476439790576
+package.divider.vertical=0.796
+package.editor.height=391
+>>>>>>> 06b7821513ce48ab5dfe23c08b11895e033819d7:Yalguunaa Ganbaatar/Classwork17042019_Yalguunaa Ganbaatar/Classwork/package.bluej
 package.editor.width=670
 package.editor.x=210
 package.editor.y=11
@@ -60,8 +72,13 @@ target4.name=ClassworkThreeTest
 target4.showInterface=false
 target4.type=UnitTestTargetJunit4
 target4.width=120
+<<<<<<< HEAD:Myanganbayar Naransukh/Classwork 04.17.2019_Myanganbayar/Classwork04.17.2019/package.bluej
 target4.x=480
 target4.y=30
+=======
+target4.x=410
+target4.y=70
+>>>>>>> 06b7821513ce48ab5dfe23c08b11895e033819d7:Yalguunaa Ganbaatar/Classwork17042019_Yalguunaa Ganbaatar/Classwork/package.bluej
 target5.height=50
 target5.name=ClassworkTwoTest
 target5.showInterface=false
@@ -75,5 +92,10 @@ target6.name=ClassworkThree
 target6.showInterface=false
 target6.type=ClassTarget
 target6.width=120
+<<<<<<< HEAD:Myanganbayar Naransukh/Classwork 04.17.2019_Myanganbayar/Classwork04.17.2019/package.bluej
 target6.x=450
 target6.y=60
+=======
+target6.x=380
+target6.y=100
+>>>>>>> 06b7821513ce48ab5dfe23c08b11895e033819d7:Yalguunaa Ganbaatar/Classwork17042019_Yalguunaa Ganbaatar/Classwork/package.bluej
