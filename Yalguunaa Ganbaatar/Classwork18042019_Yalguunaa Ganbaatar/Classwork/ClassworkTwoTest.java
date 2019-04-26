@@ -11,8 +11,8 @@ public class ClassworkTwoTest
     public void testClassworkTwo()
     {
         ClassworkTwo t1 =  new ClassworkTwo(1,2);
-        assertEquals(4, t1.getFreedom(2));
-        assertEquals(3, t1.getAbs(3));
+        assertEquals(3, t1.getFreedom(1,2));
+        assertEquals(3, t1.getAbs(1, 3));
         assertEquals(256, t1.getGirlz(4));
         assertEquals(3125, t1.getGirlz(5));
         assertEquals(46656, t1.getGirlz(6));

@@ -8,11 +8,11 @@ public class ClassworkTwo
         tattoo = wei;
         chucky = shenme;
     }
-    public int getFreedom(int tattoo)
+    public int getFreedom(int tattoo, int chucky)
     {
         return tattoo + chucky;
     }
-    public int getAbs(int chucky)
+    public int getAbs(int tattoo, int chucky)
     {
         return tattoo * chucky;
     }
