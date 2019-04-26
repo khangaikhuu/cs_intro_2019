@@ -12,6 +12,6 @@ public class ClassworkThreeTest
     public void testClassworkThree()
     {
         ClassworkThree c4 = new ClassworkThree();
-        assertEquals(21, c4.getI(11));
+        assertEquals(12, c4.getI(11));
     }
 }

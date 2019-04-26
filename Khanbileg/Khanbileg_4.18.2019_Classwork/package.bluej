@@ -1,4 +1,10 @@
 #BlueJ package file
+<<<<<<< HEAD
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+=======
 dependency1.from=ClassworkTwoTest
 dependency1.to=ClassworkTwo
 dependency1.type=UsesDependency
@@ -9,6 +15,7 @@ editor.fx.0.height=744
 editor.fx.0.width=1040
 editor.fx.0.x=-8
 editor.fx.0.y=-8
+>>>>>>> 3979a2523006b6db4d50991b6ed2c0182e990ce4
 objectbench.height=93
 objectbench.width=760
 package.divider.horizontal=0.6
