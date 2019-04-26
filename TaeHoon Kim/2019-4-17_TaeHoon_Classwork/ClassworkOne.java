@@ -1,19 +1,20 @@
+
 public class ClassworkOne
 {
     private int a = 2;
     private boolean b = true;
-    private String c = "SungMin";
+    private String c = "TaeHoon";
     
     public ClassworkOne(int a, boolean b, String c)
     {
         a = a;
         b = b;
-        c = c;  
+        c = c;
     }
     
     public int getA()
     {
-        return a; 
+        return a;
     }
     public boolean getB()
     {
