@@ -1,38 +1,37 @@
 
-
 public class ClassworkTwo
 {
     private int a;
     private int b;
-    public ClassworkTwo(int a, int b)
+    public ClassworkTwo(int c, int d)
     {
-        a = a;
-        b = b;
+        a = c;
+        b = d;
     }
-    public int getA()
+    public int getA(int a)
     {
         return a;
     }
-    public int getB()
+    public int getB(int b)
     {
         return b;
     }
-    public int getAddition()
+    public int getSum(int a, int b)
     {
         return a + b;
     }
-    public int getMultiplication()
+    public int getProduct(int a, int b)
     {
         return a * b;
     }
-    private int c = 0;
-    public int loopNumbers(int loop)
+    public int calcProduct(int e)
     {
-        for(int i = 1; i<= loop; i++)
+        int o = 0;
+        for (int i = 1; i < 2; i++)
         {
-            c = c+2;
+            o = e * o;
         }
-        return c;
+        return o;
     }
 }
         
