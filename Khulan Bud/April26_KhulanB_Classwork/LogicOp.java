@@ -1,4 +1,3 @@
-
 public class LogicOp extends SubtractNumbers
 { 
     public boolean A; 
