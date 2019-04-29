@@ -1,27 +1,27 @@
 
 public class ClassworkTwo
 {
-  private float f ;
-  private double d;
-  public ClassworkTwo(float f, double d)
+  private float gee ;
+  private double skrt;
+  public ClassworkTwo(float gee, double skrt)
   {
-      f = f;
-      d = d;
+      gee = gee;
+      skrt = skrt;
   }
-  public float getF(float f)
+  public float getHelp(float gee )
   {
-      return f;
+      return gee;
     }
-  public double getD(double d)
+  public double getOut(double skrt)
   {
-      return d;
+      return skrt;
   }
-  public void setD( double d)
+  public void setD( float p)
   { 
-      d = d;
+      p = gee;
   }
-  public void selF(float f)
+  public void setSkrt(double u)
   {
-      f = f;
+      u = skrt;
   }
 }
