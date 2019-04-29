@@ -37,7 +37,7 @@ public class ClassworkTwo
     public int Something()
     {
         int x = 0;
-        for(i = 0; i < 10; i++)
+        for(i = 1; i < 10; i++)
         {
             x = x + 5;
         }
