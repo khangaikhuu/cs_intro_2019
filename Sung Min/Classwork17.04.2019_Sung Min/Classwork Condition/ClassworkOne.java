@@ -8,7 +8,7 @@ public class ClassworkOne
     {
         a = a;
         b = b;
-        c= c;  
+        c = c;  
     }
     
     public int getA()

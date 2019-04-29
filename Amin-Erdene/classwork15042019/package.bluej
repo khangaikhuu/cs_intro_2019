@@ -5,27 +5,15 @@ dependency1.type=UsesDependency
 dependency2.from=CalculatorTest
 dependency2.to=Calculator
 dependency2.type=UsesDependency
-<<<<<<< HEAD
-editor.fx.0.height=665
-editor.fx.0.width=1053
-editor.fx.0.x=319
-editor.fx.0.y=38
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=392
+editor.fx.0.y=40
 objectbench.height=95
 objectbench.width=451
 package.divider.horizontal=0.599476439790576
 package.divider.vertical=0.796
 package.editor.height=391
-=======
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
-objectbench.height=93
-objectbench.width=760
-package.divider.horizontal=0.6
-package.divider.vertical=0.8
-package.editor.height=393
->>>>>>> 97585ff6b13d639bc5264d6a779b7db97abffded
 package.editor.width=670
 package.editor.x=2
 package.editor.y=135
