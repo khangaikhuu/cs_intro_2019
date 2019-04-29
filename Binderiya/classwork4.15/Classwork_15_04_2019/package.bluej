@@ -1,7 +1,21 @@
 #BlueJ package file
-dependency1.from=StarTest
-dependency1.to=Star
+dependency1.from=Classwork1504CalculatorTest
+dependency1.to=Classwork1504Calculator
 dependency1.type=UsesDependency
+<<<<<<< HEAD
+dependency2.from=StarTest
+dependency2.to=Star
+dependency2.type=UsesDependency
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=392
+editor.fx.0.y=40
+objectbench.height=95
+objectbench.width=451
+package.divider.horizontal=0.599476439790576
+package.divider.vertical=0.796
+package.editor.height=391
+=======
 dependency2.from=Classwork1504CalculatorTest
 dependency2.to=Classwork1504Calculator
 dependency2.type=UsesDependency
@@ -14,6 +28,7 @@ objectbench.width=760
 package.divider.horizontal=0.6
 package.divider.vertical=0.8
 package.editor.height=393
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 package.editor.width=670
 package.editor.x=101
 package.editor.y=109
@@ -33,29 +48,50 @@ target1.height=50
 target1.name=Classwork1504CalculatorTest
 target1.showInterface=false
 target1.type=UnitTestTargetJunit4
+<<<<<<< HEAD
+target1.width=210
+target1.x=10
+target1.y=200
+=======
 target1.width=180
 target1.x=240
 target1.y=170
 target2.association=Classwork1504CalculatorTest
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 target2.height=50
 target2.name=Classwork1504Calculator
 target2.showInterface=false
 target2.type=ClassTarget
 target2.width=180
+<<<<<<< HEAD
+target2.x=70
+target2.y=10
+=======
 target2.x=210
 target2.y=200
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 target3.association=StarTest
 target3.height=50
 target3.name=Star
 target3.showInterface=false
 target3.type=ClassTarget
 target3.width=80
+<<<<<<< HEAD
+target3.x=320
+target3.y=160
+=======
 target3.x=70
 target3.y=140
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
 target4.height=50
 target4.name=StarTest
 target4.showInterface=false
 target4.type=UnitTestTargetJunit4
 target4.width=80
+<<<<<<< HEAD
+target4.x=350
+target4.y=130
+=======
 target4.x=100
 target4.y=110
+>>>>>>> 894147eac0aa38a3977d01e902f19d8848431bd7
