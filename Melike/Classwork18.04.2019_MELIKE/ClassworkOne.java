@@ -15,7 +15,7 @@ public class ClassworkOne
   {
        for (int i = 1; i <= a; i++)
       {
-           m = m + 1;
+           m = a * 2;
         }
         return m;
     }
