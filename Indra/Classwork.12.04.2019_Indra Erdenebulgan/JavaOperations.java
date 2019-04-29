@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class ClassworkOne here.
+ * Write a description of class JavaOperations here.
  *
  * @author (your name)
  * @version (a version number or a date)
  */
-public class ClassworkOne
+public class JavaOperations
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class ClassworkOne
+     * Constructor for objects of class JavaOperations
      */
-    public ClassworkOne()
+    public JavaOperations()
     {
         // initialise instance variables
         x = 0;
