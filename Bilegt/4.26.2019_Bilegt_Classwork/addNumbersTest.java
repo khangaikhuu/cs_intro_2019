@@ -5,38 +5,13 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * The test class addNumbersTest.
- *
- * @author  (your name)
- * @version (a version number or a date)
- */
+
 public class addNumbersTest
 {
-    /**
-     * Default constructor for test class addNumbersTest
-     */
-    public addNumbersTest()
+    @Test
+    public void addNumbersTest()
     {
-    }
-
-    /**
-     * Sets up the test fixture.
-     *
-     * Called before every test case method.
-     */
-    @Before
-    public void setUp()
-    {
-    }
-
-    /**
-     * Tears down the test fixture.
-     *
-     * Called after every test case method.
-     */
-    @After
-    public void tearDown()
-    {
-    }
+        Addition a1 = new Addition();
+        assertEquals( 12, a1.Addition(2,4,6));
+        assertEquals( 
 }
