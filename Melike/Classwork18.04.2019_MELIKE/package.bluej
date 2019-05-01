@@ -2,6 +2,17 @@
 dependency1.from=ClassworkOneTest
 dependency1.to=ClassworkOne
 dependency1.type=UsesDependency
+<<<<<<< HEAD
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+objectbench.height=95
+objectbench.width=451
+package.divider.horizontal=0.599476439790576
+package.divider.vertical=0.796
+package.editor.height=391
+=======
 dependency2.from=ClassworkTwoTest
 dependency2.to=ClassworkTwo
 dependency2.type=UsesDependency
@@ -14,9 +25,10 @@ objectbench.width=760
 package.divider.horizontal=0.6
 package.divider.vertical=0.8
 package.editor.height=393
+>>>>>>> a2c130aee4a9776be6709e1f5d8f1e3035718c70
 package.editor.width=670
-package.editor.x=109
-package.editor.y=159
+package.editor.x=253
+package.editor.y=144
 package.frame.height=600
 package.frame.width=800
 package.numDependencies=2
