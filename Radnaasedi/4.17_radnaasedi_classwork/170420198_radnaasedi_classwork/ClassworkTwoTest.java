@@ -12,8 +12,8 @@ public class ClassworkTwoTest
     public void testClassworkTwo()
     {
         ClassworkTwo c4 = new ClassworkTwo(10.5f,2.5);
-        assertEquals(10.f, c4.getA(), 1);
-        assertEquals(2.5, c4.getB(), 1);
+        assertEquals(10.f, c4.getA(),1);
+        assertEquals(2.5, c4.getB(),1);
       
     }
         
