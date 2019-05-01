@@ -1,12 +1,12 @@
 
 public class ClassworkTwo
 {
-  private float a;
-  private double b;
-  public ClassworkTwo( float a, double b)
+  private float a = 0.0f;
+  private double b = 0.0;
+  public ClassworkTwo( float par1, double par2)
   {
-      a = a;
-      b = b;
+      a = par1;
+      b = par2;
       
     }
     public float getA()
