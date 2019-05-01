@@ -5,13 +5,17 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
+
 public class ClassworkTwoTest
 {
     @Test
     public void testClassworkTwo()
     {
-        ClassworkOne c1 = new ClassworkOne(1.0f, 2.5);
-        assertEquals(1.0f, c1.getA(),1);
-        assertEquals(2.5, c1.getB(),2.5);
+        ClassworkTwo c2 = new ClassworkTwo(6,2);
+        assertEquals(6, c2.getA());
+        assertEquals(2, c2.getB());
+        assertEquals(8, c2.getSum());
+        assertEquals(12, c2.getQuotient());
+        assertEquals(1, c2.loopnumber(1));
     }
 }

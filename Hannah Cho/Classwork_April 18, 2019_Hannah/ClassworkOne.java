@@ -1,47 +1,24 @@
 public class ClassworkOne
 {
-    private float a;
-    private double b;
+    private int a = 1;
     
-    public ClassworkOne(float a, double b)
+    public ClassworkOne(int parameter)
     {
-        a = a;
-        b = b;
+        a = parameter;
     }
-    
-    public float getA()
+    public int getA()
     {
         return a;
     }
-    public double getB()
+    public void setA(int parameter)
     {
-        return b;
+        a = parameter;
     }
-    public int getSum(int a, int b)
+    public int loopnumber(int loop)
     {
-        return a + b;
-    }
-    public int getQuotient(int a, int b)
-    {
-        return a * b;
-    }
-    
-    public void setA(int a)
-    {
-        a = a;
-    }
-    public void setB(int b)
-    {
-        b = b;
-    }
-    
-    
-    public int ClassworkTwo(int loop)
-    {
-        int a = 0;
         for (int i = 1; i <= loop; i++)
         {
-            a = a + 2;
+            a = a * a;
         }
         return a;
     }

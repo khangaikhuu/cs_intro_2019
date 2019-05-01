@@ -2,14 +2,15 @@
 
 public class ClassworkThree
 {
-   private int a;
+   private int a = 1;
    public int getI(int a)
    {
-       for (int i = 1; i <= 10; i++)
+       int b = 1;
+       for (int i = 1; i <= a; i++)
      {
-         a = a +1;
+         b = b + 1;
 
     }
-    return a;
-}
+    return b;
+   }
 }
