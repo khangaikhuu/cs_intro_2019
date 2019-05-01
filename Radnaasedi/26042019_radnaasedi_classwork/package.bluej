@@ -1,28 +1,43 @@
 #BlueJ package file
-dependency1.from=AreaCircleTest
-dependency1.to=AreaCircle
+dependency1.from=Check100Test
+dependency1.to=Check100
 dependency1.type=UsesDependency
-dependency2.from=PerimeterCircleTest
-dependency2.to=PerimeterCircle
+dependency2.from=AreaQuadratTest
+dependency2.to=AreaQuadrat
 dependency2.type=UsesDependency
-dependency3.from=AreaQuadratTest
-dependency3.to=AreaQuadrat
+dependency3.from=PerimeterRectangleTest
+dependency3.to=PerimeterRectangle
 dependency3.type=UsesDependency
-dependency4.from=PerimeterRectangleTest
-dependency4.to=PerimeterRectangle
+dependency4.from=PerimeterCircleTest
+dependency4.to=PerimeterCircle
 dependency4.type=UsesDependency
-dependency5.from=addNumbersTest
-dependency5.to=addNumbers
+dependency5.from=calcSubtractionTest
+dependency5.to=calcSubtraction
 dependency5.type=UsesDependency
-dependency6.from=calcSubtractionTest
-dependency6.to=calcSubtraction
+dependency6.from=AreaCircleTest
+dependency6.to=AreaCircle
 dependency6.type=UsesDependency
 dependency7.from=LogicalOperationTest
 dependency7.to=LogicalOperation
 dependency7.type=UsesDependency
-dependency8.from=Check100Test
-dependency8.to=Check100
+dependency8.from=addNumbersTest
+dependency8.to=addNumbers
 dependency8.type=UsesDependency
+<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+objectbench.height=93
+objectbench.width=760
+package.divider.horizontal=0.6
+package.divider.vertical=0.8003992015968064
+package.editor.height=394
+package.editor.width=657
+package.editor.x=121
+package.editor.y=32
+package.frame.height=600
+=======
 editor.fx.0.height=38
 editor.fx.0.width=160
 editor.fx.0.x=-32000
@@ -36,6 +51,7 @@ package.editor.width=670
 package.editor.x=0
 package.editor.y=0
 package.frame.height=860
+>>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
 package.frame.width=800
 package.numDependencies=8
 package.numTargets=17
@@ -52,24 +68,43 @@ target1.name=Check100Test
 target1.showInterface=false
 target1.type=UnitTestTargetJunit4
 target1.width=80
+<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
+target1.x=220
+target1.y=300
+target10.association=addNumbersTest
+=======
 target1.x=100
 target1.y=460
 target10.association=PerimeterRectangleTest
+>>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
 target10.height=50
-target10.name=PerimeterRectangle
+target10.name=addNumbers
 target10.showInterface=false
 target10.type=ClassTarget
+<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
+target10.width=110
+target10.x=400
+target10.y=60
+target11.association=PerimeterRectangleTest
+=======
 target10.width=150
 target10.x=70
 target10.y=190
 target11.association=addNumbersTest
+>>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
 target11.height=50
-target11.name=addNumbers
+target11.name=PerimeterRectangle
 target11.showInterface=false
 target11.type=ClassTarget
+<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
+target11.width=150
+target11.x=210
+target11.y=180
+=======
 target11.width=140
 target11.x=70
 target11.y=310
+>>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
 target12.height=50
 target12.name=addNumbersTest
 target12.showInterface=false
