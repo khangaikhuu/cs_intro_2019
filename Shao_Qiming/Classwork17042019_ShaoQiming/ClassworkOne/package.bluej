@@ -14,6 +14,22 @@ dependency4.type=UsesDependency
 dependency5.from=ClassworkConditionTest
 dependency5.to=ClassworkCondition
 dependency5.type=UsesDependency
+<<<<<<< HEAD
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+objectbench.height=110
+objectbench.width=741
+package.divider.horizontal=0.6
+package.divider.vertical=0.8480290456431535
+package.editor.height=648
+package.editor.width=640
+package.editor.x=760
+package.editor.y=0
+package.frame.height=870
+package.frame.width=780
+=======
 editor.fx.0.height=709
 editor.fx.0.width=816
 editor.fx.0.x=564
@@ -28,6 +44,7 @@ package.editor.x=756
 package.editor.y=43
 package.frame.height=788
 package.frame.width=560
+>>>>>>> 2a3277e6c95eca410ce3279d0fd8aedcec2617ec
 package.numDependencies=5
 package.numTargets=10
 package.showExtends=true
