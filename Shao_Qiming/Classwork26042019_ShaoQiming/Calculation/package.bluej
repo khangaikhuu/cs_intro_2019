@@ -23,10 +23,17 @@ dependency7.type=UsesDependency
 dependency8.from=Less_Than_100Test
 dependency8.to=Less_Than_100
 dependency8.type=UsesDependency
+<<<<<<< HEAD
+editor.fx.0.height=738
+editor.fx.0.width=816
+editor.fx.0.x=104
+editor.fx.0.y=-3
+=======
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
+>>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683
 objectbench.height=94
 objectbench.width=657
 package.divider.horizontal=0.6
@@ -59,7 +66,7 @@ target10.name=Print_my_given_Name
 target10.showInterface=false
 target10.type=ClassTarget
 target10.width=160
-target10.x=220
+target10.x=240
 target10.y=260
 target11.association=Print_my_given_NameTest
 target11.height=50
@@ -126,7 +133,7 @@ target3.name=LogicalOperations
 target3.showInterface=false
 target3.type=ClassTarget
 target3.width=140
-target3.x=90
+target3.x=130
 target3.y=40
 target4.height=50
 target4.name=Perimeter_RectangleTest
