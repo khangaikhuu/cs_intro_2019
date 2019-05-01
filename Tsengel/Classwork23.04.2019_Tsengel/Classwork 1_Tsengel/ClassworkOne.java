@@ -17,12 +17,12 @@ public class ClassworkOne
    {
        return b;
     }
-   public void setC(int c)
+   public void setA(int par1)
    {
-       a = c;
+       a = par1;
     }
-   public void setD(String d)
+   public void setB(String par2)
    {
-       b = d;
+       b = par2;
     }
 }
