@@ -25,14 +25,14 @@ public class ClassworkTwo
     {
         return a * b;
     }
-    public int outside(int dog)
-    {
-        return 0;
-   }
-    public void methodOne()
-    {
-        int localvariableOfMethod1;// local variable of methodOne
-        
+     public int calcProduct(int e)
+   {
+        int o = 0;
+        for (int i = 1; i < e; i++)
+        {
+            o = e * o;
+        }
+        return o;
     }
     
 }
