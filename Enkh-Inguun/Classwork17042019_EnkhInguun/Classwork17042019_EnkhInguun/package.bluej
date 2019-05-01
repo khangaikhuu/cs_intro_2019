@@ -1,13 +1,29 @@
 #BlueJ package file
-dependency1.from=ClassworkOneTest
-dependency1.to=ClassworkOne
+dependency1.from=ClassworkConditionTest
+dependency1.to=ClassworkCondition
 dependency1.type=UsesDependency
 dependency2.from=ClassworkLoopTest
 dependency2.to=ClassworkLoop
 dependency2.type=UsesDependency
-dependency3.from=ClassworkConditionTest
-dependency3.to=ClassworkCondition
+dependency3.from=ClassworkOneTest
+dependency3.to=ClassworkOne
 dependency3.type=UsesDependency
+<<<<<<< HEAD
+editor.fx.0.height=806
+editor.fx.0.width=816
+editor.fx.0.x=23
+editor.fx.0.y=37
+objectbench.height=112
+objectbench.width=1081
+package.divider.horizontal=0.6
+package.divider.vertical=0.7993254637436762
+package.editor.height=467
+package.editor.width=991
+package.editor.x=466
+package.editor.y=51
+package.frame.height=693
+package.frame.width=1121
+=======
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
@@ -22,6 +38,7 @@ package.editor.x=-8
 package.editor.y=-8
 package.frame.height=876
 package.frame.width=1616
+>>>>>>> db6e3603e351521383eb346622eb16d2322fb2e0
 package.numDependencies=3
 package.numTargets=6
 package.showExtends=true

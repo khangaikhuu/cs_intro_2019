@@ -1,4 +1,21 @@
 #BlueJ package file
+<<<<<<< HEAD
+editor.fx.0.height=578
+editor.fx.0.width=821
+editor.fx.0.x=626
+editor.fx.0.y=58
+objectbench.height=93
+objectbench.width=760
+package.divider.horizontal=0.6
+package.divider.vertical=0.8
+package.editor.height=393
+package.editor.width=670
+package.editor.x=130
+package.editor.y=130
+package.frame.height=600
+package.frame.width=800
+package.numDependencies=0
+=======
 dependency1.from=ClassworkThreeTest
 dependency1.to=ClassworkThree
 dependency1.type=UsesDependency
@@ -20,6 +37,7 @@ package.editor.y=12
 package.frame.height=600
 package.frame.width=800
 package.numDependencies=2
+>>>>>>> db6e3603e351521383eb346622eb16d2322fb2e0
 package.numTargets=4
 package.showExtends=true
 package.showUses=true
@@ -55,5 +73,10 @@ target4.name=ClassworkThree
 target4.showInterface=false
 target4.type=ClassTarget
 target4.width=120
+<<<<<<< HEAD
+target4.x=40
+target4.y=200
+=======
 target4.x=300
 target4.y=170
+>>>>>>> db6e3603e351521383eb346622eb16d2322fb2e0
