@@ -1,3 +1,106 @@
 #BlueJ package file
-#Mon Apr 22 12:55:52 ULAT 2019
+<<<<<<< HEAD
+dependency1.from=ClassworkTwoTest
+dependency1.to=ClassworkTwo
+dependency1.type=UsesDependency
+dependency2.from=ClassworkOneTest
+dependency2.to=ClassworkOne
+dependency2.type=UsesDependency
+editor.fx.0.height=0
+editor.fx.0.width=0
+editor.fx.0.x=0
+editor.fx.0.y=0
+objectbench.height=93
+objectbench.width=760
+package.divider.horizontal=0.6
+package.divider.vertical=0.8
+package.editor.height=393
+package.editor.width=670
+package.editor.x=614
+package.editor.y=190
+=======
+dependency1.from=ClassworkOneTest
+dependency1.to=ClassworkOne
+dependency1.type=UsesDependency
+dependency2.from=ClassworkTwoTest
+dependency2.to=ClassworkTwo
+dependency2.type=UsesDependency
+editor.fx.0.height=739
+editor.fx.0.width=816
+editor.fx.0.x=392
+editor.fx.0.y=40
+objectbench.height=95
+objectbench.width=451
+package.divider.horizontal=0.599476439790576
+package.divider.vertical=0.796
+package.editor.height=391
+package.editor.width=670
+package.editor.x=12
+package.editor.y=12
+>>>>>>> db6e3603e351521383eb346622eb16d2322fb2e0
+package.frame.height=600
+package.frame.width=800
+package.numDependencies=2
+package.numTargets=4
+package.showExtends=true
+package.showUses=true
 project.charset=UTF-8
+readme.height=58
+readme.name=@README
+readme.width=47
+readme.x=10
+readme.y=10
+<<<<<<< HEAD
+target1.association=ClassworkOneTest
+=======
+>>>>>>> db6e3603e351521383eb346622eb16d2322fb2e0
+target1.height=50
+target1.name=ClassworkOne
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=110
+<<<<<<< HEAD
+target1.x=410
+target1.y=150
+=======
+target1.x=130
+target1.y=10
+>>>>>>> db6e3603e351521383eb346622eb16d2322fb2e0
+target2.height=50
+target2.name=ClassworkOneTest
+target2.showInterface=false
+target2.type=UnitTestTargetJunit4
+<<<<<<< HEAD
+target2.width=110
+target2.x=440
+target2.y=120
+target3.association=ClassworkTwoTest
+=======
+target2.width=140
+target2.x=70
+target2.y=70
+>>>>>>> db6e3603e351521383eb346622eb16d2322fb2e0
+target3.height=50
+target3.name=ClassworkTwo
+target3.showInterface=false
+target3.type=ClassTarget
+target3.width=110
+<<<<<<< HEAD
+target3.x=60
+=======
+target3.x=10
+>>>>>>> db6e3603e351521383eb346622eb16d2322fb2e0
+target3.y=130
+target4.height=50
+target4.name=ClassworkTwoTest
+target4.showInterface=false
+target4.type=UnitTestTargetJunit4
+<<<<<<< HEAD
+target4.width=110
+target4.x=90
+target4.y=100
+=======
+target4.width=140
+target4.x=120
+target4.y=130
+>>>>>>> db6e3603e351521383eb346622eb16d2322fb2e0

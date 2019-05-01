@@ -4,7 +4,7 @@ public class ClassworkThree
     private int a;
     public int getI(int a)
     {
-        for (int i = 1; i <= 10; i++)
+        for (int i = 1; i <= a; i++)
         {
             a = a + 1;
         }
