@@ -7,7 +7,7 @@ public class JavaOperations
     public long d = 123124123;
     public char myChar = 'C';
     public boolean f = true;
-    public String myName = "TaeHoon";
+    public String myName = "TaeHoon";       
     
       public int getA()
     {
