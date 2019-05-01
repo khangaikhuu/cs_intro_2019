@@ -10,19 +10,19 @@ public class ClassworkTwo
         a = a;
         b = b;
     }
-    public float getA()
+    public float getA(float a)
     {
         return a;
     }
-    public double getB()
+    public double getB(double b)
     {
         return b;
     }
-    public void setA()
+    public void setA(float a)
     {
         a = a;
     }
-    public void setB()
+    public void setB(double b)
     {
         b = b;
     }
