@@ -9,11 +9,11 @@ public class ClassworkTwo
       b = b;
      
     }
-    public float getA(float a)
+    public float getA()
     {
         return a;
     }
-    public double getB(double b)
+    public double getB()
     {
         return b;
     }
