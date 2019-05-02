@@ -18,13 +18,8 @@ public class LessThan100
     { 
         return false; 
     } 
-
-
- 
 } 
 } 
-
-      
 
 
  

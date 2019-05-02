@@ -12,7 +12,7 @@ public class SumofFirst100NumbersTest
     public void testMySum()
     {
         SumofFirst100Numbers s1 = new SumofFirst100Numbers();
-        assertEquals(5051,s1.loopnumber(1));
+        assertEquals(5050,s1.loopnumber());
     }
        
 }
