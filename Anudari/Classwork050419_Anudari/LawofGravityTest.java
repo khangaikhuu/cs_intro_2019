@@ -11,6 +11,9 @@ public class LawofGravityTest
    public void testMyGravity()
    {
        LawofGravity g1 = new LawofGravity();
-       assertEquals(,g1.getGravity
+       assertEquals(4,g1.getGravity(2,2,5,4));
+       assertEquals(20,g1.getGravity(5,8,2,4));
+       assertEquals(84,g1.getGravity(4,7,6,2));
+    }
   
 }
