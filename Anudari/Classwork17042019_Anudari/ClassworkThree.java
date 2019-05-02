@@ -2,7 +2,7 @@
 
 public class ClassworkThree
 {
-   private int a;
+   private int a = 1;
    public int getA()
    {
        return a;
@@ -11,14 +11,14 @@ public class ClassworkThree
     {
         a = a;
     }
-    private int b = 1;
+  
     public int loopnumbers(int loop)
     {
         for (int i = 1; i <= loop; i++)
         {
-            b = b + 1;
+            a = a + 1;
         }
-        return b;
+        return a;
     }
 }
   
