@@ -8,26 +8,95 @@ dependency2.type=UsesDependency
 dependency3.from=AreaQuadratTest
 dependency3.to=AreaQuadrat
 dependency3.type=UsesDependency
+<<<<<<< HEAD
 dependency4.from=PerimeterRectangleTest
 dependency4.to=PerimeterRectangle
+=======
+<<<<<<< HEAD
+dependency4.from=calcSubtractionTest
+dependency4.to=calcSubtraction
+dependency4.type=UsesDependency
+dependency5.from=AreaCircleTest
+dependency5.to=AreaCircle
+dependency5.type=UsesDependency
+dependency6.from=LogicalOperationTest
+dependency6.to=LogicalOperation
+=======
+dependency4.from=PerimeterCircleTest
+dependency4.to=PerimeterCircle
+>>>>>>> 4cd1c3a3252f4e57817d67d88558b11a8ad48d7b
 dependency4.type=UsesDependency
 dependency5.from=PerimeterCircleTest
 dependency5.to=PerimeterCircle
 dependency5.type=UsesDependency
+<<<<<<< HEAD
 dependency6.from=calcSubtractionTest
 dependency6.to=calcSubtraction
+=======
+dependency6.from=AreaCircleTest
+dependency6.to=AreaCircle
+>>>>>>> 4153fe63e0d32ca6b86644c14832c6b1e5361e34
+>>>>>>> 4cd1c3a3252f4e57817d67d88558b11a8ad48d7b
 dependency6.type=UsesDependency
-dependency7.from=LogicalOperationTest
-dependency7.to=LogicalOperation
+dependency7.from=addNumbersTest
+dependency7.to=addNumbers
 dependency7.type=UsesDependency
+<<<<<<< HEAD
+dependency8.from=PerimeterCircleTest
+dependency8.to=PerimeterCircle
+dependency8.type=UsesDependency
+=======
 dependency8.from=addNumbersTest
 dependency8.to=addNumbers
 dependency8.type=UsesDependency
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+editor.fx.0.height=860
+editor.fx.0.width=800
+editor.fx.0.x=800
+editor.fx.0.y=0
+objectbench.height=66
+=======
+<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
+>>>>>>> 4153fe63e0d32ca6b86644c14832c6b1e5361e34
+>>>>>>> 4cd1c3a3252f4e57817d67d88558b11a8ad48d7b
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
+<<<<<<< HEAD
 objectbench.height=66
+=======
+<<<<<<< HEAD
+objectbench.height=108
+objectbench.width=1000
+package.divider.horizontal=0.6
+package.divider.vertical=0.8214285714285714
+package.editor.height=522
+package.editor.width=897
+package.editor.x=-8
+package.editor.y=-8
+package.frame.height=744
+package.frame.width=1040
+=======
+objectbench.height=93
+objectbench.width=760
+package.divider.horizontal=0.6
+package.divider.vertical=0.8003992015968064
+package.editor.height=394
+package.editor.width=657
+package.editor.x=121
+package.editor.y=32
+package.frame.height=600
+=======
+editor.fx.0.height=38
+editor.fx.0.width=160
+editor.fx.0.x=-32000
+editor.fx.0.y=-32000
+objectbench.height=93
+>>>>>>> 4ca9f37e23504b18b949f54c56695be8726d4ced
+>>>>>>> 4cd1c3a3252f4e57817d67d88558b11a8ad48d7b
 objectbench.width=760
 package.divider.horizontal=0.6
 package.divider.vertical=0.9040735873850198
@@ -37,6 +106,7 @@ package.editor.x=0
 package.editor.y=0
 package.frame.height=860
 package.frame.width=800
+>>>>>>> 4153fe63e0d32ca6b86644c14832c6b1e5361e34
 package.numDependencies=8
 package.numTargets=17
 package.showExtends=true
@@ -55,6 +125,17 @@ target1.width=80
 target1.x=100
 target1.y=460
 target10.association=addNumbersTest
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+target10.association=addNumbersTest
+=======
+target10.association=PerimeterRectangleTest
+>>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
+>>>>>>> 4ca9f37e23504b18b949f54c56695be8726d4ced
+>>>>>>> 4153fe63e0d32ca6b86644c14832c6b1e5361e34
+>>>>>>> 4cd1c3a3252f4e57817d67d88558b11a8ad48d7b
 target10.height=50
 target10.name=addNumbers
 target10.showInterface=false
@@ -63,6 +144,29 @@ target10.width=140
 target10.x=70
 target10.y=310
 target11.association=PerimeterRectangleTest
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+target10.width=140
+target10.x=70
+target10.y=310
+target11.association=PerimeterRectangleTest
+=======
+<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
+target10.width=110
+target10.x=400
+target10.y=60
+target11.association=PerimeterRectangleTest
+=======
+target10.width=150
+target10.x=70
+target10.y=190
+target11.association=addNumbersTest
+>>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
+>>>>>>> 4ca9f37e23504b18b949f54c56695be8726d4ced
+>>>>>>> 4153fe63e0d32ca6b86644c14832c6b1e5361e34
+>>>>>>> 4cd1c3a3252f4e57817d67d88558b11a8ad48d7b
 target11.height=50
 target11.name=PerimeterRectangle
 target11.showInterface=false
@@ -70,6 +174,26 @@ target11.type=ClassTarget
 target11.width=150
 target11.x=70
 target11.y=190
+<<<<<<< HEAD
+=======
+=======
+<<<<<<< HEAD
+target11.width=150
+target11.x=70
+target11.y=190
+=======
+<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
+target11.width=150
+target11.x=210
+target11.y=180
+=======
+target11.width=140
+target11.x=70
+target11.y=310
+>>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
+>>>>>>> 4ca9f37e23504b18b949f54c56695be8726d4ced
+>>>>>>> 4153fe63e0d32ca6b86644c14832c6b1e5361e34
+>>>>>>> 4cd1c3a3252f4e57817d67d88558b11a8ad48d7b
 target12.height=50
 target12.name=addNumbersTest
 target12.showInterface=false
