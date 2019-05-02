@@ -1,0 +1,11 @@
+
+public class ExerciseFour
+{
+    private boolean x;
+    private boolean y;
+    private boolean z;
+    public boolean f(boolean x, boolean y, boolean z)
+    {
+        return x & y & z | !x & !y;
+    }
+}
