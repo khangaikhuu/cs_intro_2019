@@ -6,13 +6,16 @@ public class Equals
    public int b; 
    public boolean Equals(int a, int b) 
    { 
-     if(a = b) 
+     if(a > b) 
      { 
-      return true;
+      return false;
     } 
-      
+    if (b > a) 
+    { 
+        return false;
+    } 
     else 
-    { return false; 
+    { return true; 
     } 
     
       

@@ -10,5 +10,19 @@ public class ClassworkOne
         b = b;
         c = c;
     }
-   
+    
+    public int getA()
+    {
+        return a;
+    }
+    
+    public boolean getB()
+    {
+        return b;
+    }
+    
+    public String getC()
+    {
+        return c;
+    }
 }
