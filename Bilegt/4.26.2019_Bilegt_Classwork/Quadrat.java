@@ -1,5 +1,5 @@
 
-public class Area_Quadrat
+public class Quadrat
 {
    private double base;
    private double height;

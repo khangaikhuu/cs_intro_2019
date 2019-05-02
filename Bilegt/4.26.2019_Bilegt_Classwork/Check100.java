@@ -1,9 +1,9 @@
 
-public class Less_Than_100
+public class Check100
 {
     private double a;
 
-    public boolean checkA(double a)
+    public boolean check100(double a)
     {
         if (a < 100)
         {

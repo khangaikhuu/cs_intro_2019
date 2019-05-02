@@ -1,5 +1,5 @@
 
-public class Perimeter_Rectangle
+public class Rectangle
 {
     private double a;
     private double b;
