@@ -1,9 +1,9 @@
 #BlueJ package file
-dependency1.from=ClassworkOneTest
-dependency1.to=ClassworkOne
+dependency1.from=ClassworkTwoTest
+dependency1.to=ClassworkTwo
 dependency1.type=UsesDependency
-dependency2.from=ClassworkTwoTest
-dependency2.to=ClassworkTwo
+dependency2.from=ClassworkOneTest
+dependency2.to=ClassworkOne
 dependency2.type=UsesDependency
 dependency3.from=ClassworkThreeTest
 dependency3.to=ClassworkThree
@@ -18,8 +18,8 @@ package.divider.horizontal=0.599476439790576
 package.divider.vertical=0.8283333333333334
 package.editor.height=490
 package.editor.width=670
-package.editor.x=-3
-package.editor.y=4
+package.editor.x=100
+package.editor.y=100
 package.frame.height=700
 package.frame.width=800
 package.numDependencies=3
