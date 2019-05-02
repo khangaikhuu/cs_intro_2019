@@ -18,11 +18,11 @@ public class ClassworkTwo
     {
         return b;
     }
-    public void setA()
+    public void setA(float a)
     {
         a = a;
     }
-    public void setB()
+    public void setB(double b)
     {
         b = b;
     }

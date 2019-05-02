@@ -1,42 +1,16 @@
-
-
 import static org.junit.Assert.*;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * The test class ClassworkOneTest.
- *
- * @author  (your name)
- * @version (a version number or a date)
- */
 public class ClassworkOneTest
 {
-    /**
-     * Default constructor for test class ClassworkOneTest
-     */
-    public ClassworkOneTest()
-    {
-    }
-
-    /**
-     * Sets up the test fixture.
-     *
-     * Called before every test case method.
-     */
-    @Before
-    public void setUp()
-    {
-    }
-
-    /**
-     * Tears down the test fixture.
-     *
-     * Called after every test case method.
-     */
-    @After
-    public void tearDown()
-    {
+  @Test
+  public void testClasswork()
+  {
+      ClassworkOne co = new ClassworkOne(2, true, "hi");
+      assertEquals ( 2, co.getA ());
+      assertEquals ( true, co.getB ());
+      assertEquals ( "hi", co.getC ());
     }
 }
