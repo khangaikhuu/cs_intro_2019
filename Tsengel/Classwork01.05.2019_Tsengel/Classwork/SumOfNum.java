@@ -1,13 +1,15 @@
 
 public class SumOfNum
 {
-   public void First100(int x)
+   public int loopNumbers()
     { 
         int sum = 0;
-        int n = 10;
-        for (int i = 1; i <= n; i++)
+        int num = 0;
+        for (int i = 1; i <= 100; i++)
         {
-            sum = sum + i;
+            num = num + 1;
+            sum = sum + num;
         }
+        return sum;
     }
 }
