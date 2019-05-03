@@ -1,10 +1,7 @@
 
-public class addNumbers
+public class AddNumbers
 {
-   private double a;
-   private double b;
-   private double c;
-   public double add_Num(double a, double b, double c)
+   public int Addition(int a, int b, int c)
    {
        return a + b + c;
    }
