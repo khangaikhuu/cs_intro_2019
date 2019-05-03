@@ -12,6 +12,6 @@ public class Sum100Test
   public void testThisMethod()
   {
       Sum100 c1 = new Sum100();
-      assertEquals(5050, c1.calcSum());
+      assertEquals(0, c1.calcSum());
     }
 }
