@@ -8,5 +8,6 @@ public class Function2
     
     public boolean f(boolean x, boolean y, boolean z)
     {
-        return x & y & z 
-}
+        return x & y & z | !x & !y;
+    }
+ }
