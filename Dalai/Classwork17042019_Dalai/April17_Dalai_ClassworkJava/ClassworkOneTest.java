@@ -11,5 +11,8 @@ public class ClassworkOneTest
     public void testMyMethod()
     {
         ClassworkOne cc = new ClassworkOne(1, true, "Dalai");
+        assertEquals(1, cc.getA());
+        assertEquals(true, cc.getB());
+        assertEquals("Dalai", cc.getC());
     }
 }
