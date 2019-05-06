@@ -16,5 +16,6 @@ public class Elephant extends animal
                turn(12);
                
         }
-}
-}
+}|?0
+.
+         
