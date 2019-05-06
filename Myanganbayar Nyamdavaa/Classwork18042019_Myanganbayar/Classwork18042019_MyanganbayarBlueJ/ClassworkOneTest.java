@@ -11,10 +11,11 @@ public class ClassworkOneTest
     @Test 
     public void testMethod()
     {
-        ClassworkOne co = new ClassworkOne();
+        ClassworkOne Myangaa = new ClassworkOne(2);
+        assertEquals (1, co.getA());
         
-        assertEquals (1, co.setA(1), 1);
-        assertEquals (2, co.setA(1), 1);
-        assertEquals (3, co.setA(1), 1);
+        assertEquals (2, co.getLoop(2));
+        assertEquals (3, co.getLoop(3));
+        assertEquals (4, co.getLoop(4));
     }
 }

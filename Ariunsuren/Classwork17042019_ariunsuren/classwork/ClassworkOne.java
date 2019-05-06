@@ -2,27 +2,27 @@
 
 public class ClassworkOne
 {
-   private int a;
-   private boolean b;
-   private String c;
+   private int a = 0;
+   private boolean b = true;
+   private String c ="ari";
    public ClassworkOne()
     {
     }
-    public ClassworkOne(int a, boolean b, String c)
+    public ClassworkOne(int par1, boolean par2, String par3)
     {
-        a = a;
-        b = b;
-        c = c;
+        a = par1;
+        b = par2;
+        c = par3;
     }
-    public int getA(int a)
+    public int getA()
     {
         return a;
     }
-    public boolean getB(boolean b)
+    public boolean getB()
     {
         return b;
     }
-    public String getC(String c)
+    public String getC()
     {
         return c;
     }

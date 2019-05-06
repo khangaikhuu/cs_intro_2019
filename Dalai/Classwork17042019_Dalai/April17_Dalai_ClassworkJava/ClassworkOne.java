@@ -1,14 +1,14 @@
 public class ClassworkOne
 {
-    private int a;
+    private int a = 0;
     private boolean b = true;
     private String c = "Dalai";
     
-    public ClassworkOne(int a, boolean b, String c)
+    public ClassworkOne(int par1, boolean par2, String par3)
     {
-        a = a;
-        b = b;
-        c = c;
+        a = par1;
+        b = par2;
+        c = par3;
     }
     
     public int getA()
