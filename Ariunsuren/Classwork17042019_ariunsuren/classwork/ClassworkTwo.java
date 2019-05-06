@@ -2,28 +2,28 @@
 
 public class ClassworkTwo
 {
-    private float f;
-    private double d;
-    public ClassworkTwo(float f, double d)
+    private float f = 0.0f;
+    private double d = 0.0;
+    public ClassworkTwo(float par1, double par2)
     {
-        f = f;
-        d = d;
+        f = par1;
+        d = par2;
     }
-    public float getF(float f)
+    public float getF()
     {
         return f;
     }
-    public double getD(double d)
+    public double getD()
     {
         return d;
     }
-    public void setD(double d)
+    public void setD(double par1)
     {
-        d = d;
+        d = par1;
     }
-    public void setF(float f)
+    public void setF(float par2)
     {
-        f = f;
+        f = par2;
     }
     
 }

@@ -1,9 +1,9 @@
 
 public class ClassworkOne
 {
-    private int a;
-    private boolean b;
-    private String c;
+    private int a = 5;
+    private boolean b = false;
+    private String c = "Hello";
     
     public ClassworkOne (int a, boolean b, String c)
     {
