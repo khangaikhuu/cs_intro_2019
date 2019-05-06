@@ -2,27 +2,27 @@
 
 public class ClassworkTwo
 {
-   private float a;
-   private double b;
-   public ClassworkTwo(float abc, double b) 
+   private float a = 0.0f;
+   private double b = 0.0;
+   public ClassworkTwo(float abc, double bca) 
    {
        a = abc; 
-       b = b;
+       b = bca;
     }
-    public float getA(float a)
+    public float getA()
     {
         return a;
     }
-    public double getB(double b) 
+    public double getB() 
     {
     return b;
 }
 public void setA(float ap) 
 { 
-    ap= a;
+    a= ap;
 }
 public void setB( double bp)
 {
-    bp= b;
+    b= bp;
 }
 }

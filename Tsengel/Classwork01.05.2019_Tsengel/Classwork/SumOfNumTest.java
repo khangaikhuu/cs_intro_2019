@@ -9,8 +9,7 @@ public class SumOfNumTest
    @Test
    public void testSum()
    {
-       SumOfNum s1 new = SumOfNum();
-       assertEquals(
-       
+       SumOfNum s1 = new SumOfNum();
+       assertEquals(5050, s1.loopNumbers());
    }
 }

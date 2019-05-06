@@ -5,38 +5,13 @@ import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * The test class ClassworkTwoTest.
- *
- * @author  (your name)
- * @version (a version number or a date)
- */
 public class ClassworkTwoTest
 {
-    /**
-     * Default constructor for test class ClassworkTwoTest
-     */
-    public ClassworkTwoTest()
+    @Test
+    public void testMyMethod()
     {
-    }
-
-    /**
-     * Sets up the test fixture.
-     *
-     * Called before every test case method.
-     */
-    @Before
-    public void setUp()
-    {
-    }
-
-    /**
-     * Tears down the test fixture.
-     *
-     * Called after every test case method.
-     */
-    @After
-    public void tearDown()
-    {
+        ClassworkTwo cc = new ClassworkTwo(11.12f, 11.12);
+        assertEquals(11.12, cc.getA(),1);
+        assertEquals(11.12f, cc.getB(),1);
     }
 }
