@@ -8,6 +8,6 @@ public class LawGravity
     
     public double CalcGravity(double m1, double m2, double r)
     {
-        return 6.67408 * Math.pow(10, -11) * ((m1 * m2) / Math.pow(r, 2));
+        return (m1 * m2) / (r * r) * 6.67259 * 11-11;
     }
 }
