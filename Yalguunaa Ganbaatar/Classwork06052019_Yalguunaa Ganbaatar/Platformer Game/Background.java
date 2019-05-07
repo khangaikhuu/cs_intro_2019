@@ -5,7 +5,7 @@ public class Background extends World
 
     public Background()
     {    
-        super(1000, 800, 1); 
+        super(400, 400, 1); 
         
         
     }
