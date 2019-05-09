@@ -7,7 +7,7 @@ public class GiveMeMySize
     {
         return myArray.length;
     }
-    public int getIndexSize(int array[])
+    public int getIndexSize(int index, int array[])
     {
         return array.length;
     }
