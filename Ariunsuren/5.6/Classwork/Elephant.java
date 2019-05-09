@@ -12,10 +12,11 @@ public class Elephant extends animal
         move(5);
          
     }   
-    {if(Greenfoot.isKeyDown("right")){
+    {if(Greenfoot.isKeyDown("right"))
+        {
                turn(12);
                
         }
-}|?0
-.
-         
+    }
+    
+}
