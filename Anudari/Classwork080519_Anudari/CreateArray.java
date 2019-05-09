@@ -1,33 +1,13 @@
 
-/**
- * Write a description of class CreateArray here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
 public class CreateArray
 {
-    // instance variables - replace the example below with your own
-    private int x;
-
-    /**
-     * Constructor for objects of class CreateArray
-     */
-    public CreateArray()
-    {
-        // initialise instance variables
-        x = 0;
+  private int myArray[] = new int [7];
+  public void createArray(int index, int number)
+  {
+      myArray [index] = number;
     }
-
-    /**
-     * An example of a method - replace this comment with your own
-     *
-     * @param  y  a sample parameter for a method
-     * @return    the sum of x and y
-     */
-    public int sampleMethod(int y)
+    public int getElement(int index)
     {
-        // put your code here
-        return x + y;
+        return myArray[index];
     }
 }
