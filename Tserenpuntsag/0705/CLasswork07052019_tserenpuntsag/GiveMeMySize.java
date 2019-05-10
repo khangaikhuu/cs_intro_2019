@@ -1,0 +1,12 @@
+
+
+public class GiveMeMySize
+{
+    private int b;
+    public int [] myArray = {1, 2, 3, 4, 19, 25, 45, 12, 58, 14};
+    public int getSizeOfMyArray()
+    {
+        return myArray.length;
+    }
+    
+}
