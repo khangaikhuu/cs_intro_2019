@@ -14,9 +14,9 @@ public class ChangeMyValueTest
         assertEquals(1, cmv.getElement(0));
         cmv.ChangeValue(0,10);
         assertEquals(10, cmv.getElement(0));
-        cmv.ChangeValue(1,10);
-        assertEquals(10, cmv.getElement(0));
-        cmv.ChangeValue(0,10);
-        assertEquals(10, cmv.getElement(0));
+        cmv.ChangeValue(2,5);
+        assertEquals(5, cmv.getElement(2));
+        cmv.ChangeValue(4,6);
+        assertEquals(6, cmv.getElement(4));
     }
 }
