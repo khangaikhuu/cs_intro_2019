@@ -9,9 +9,9 @@ public class GiveMyElementTest
     @Test
     public void testMyArray()
     {
-        MyArray m = new MyArray(1);
-        assertEquals(2, m.getmyArray(2));
-        assertEquals(3, m.getGiveMyElement(3));
-        assertEquals(4, m.getMeMyElement(4));
+        GiveMyElement m = new GiveMyElement();
+        assertEquals(3, m.GetElement(2));
+        assertEquals(4, m.GetElement(3));
+        assertEquals(19, m.GetElement(4));
     }
 }
