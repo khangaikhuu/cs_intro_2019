@@ -2,8 +2,8 @@
 
 public class LogicalOperation
 {
-     public boolean LogicalOperation(boolean a, boolean b, boolean c)
+     public boolean LogicalOperation(boolean a, boolean b)
     {
-       return a && b && c || (a || c) || (c && b);
+       return (a && b) || ( ! a && ! b);
     }
 }
