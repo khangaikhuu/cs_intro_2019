@@ -17,50 +17,24 @@ dependency5.type=UsesDependency
 dependency6.from=LawOfRelativityTest
 dependency6.to=LawOfRelativity
 dependency6.type=UsesDependency
-<<<<<<< HEAD
-dependency7.from=BiggestOneTest
-dependency7.to=BiggestOne
-dependency7.type=UsesDependency
-dependency8.from=TwoNumbersAreEquaTest
-dependency8.to=TwoNumbersAreEqua
-dependency8.type=UsesDependency
-dependency9.from=NumbersAreBothLessThanHundredTest
-dependency9.to=NumbersAreBothLessThanHundred
-dependency9.type=UsesDependency
-=======
 dependency7.from=NumbersAreBothLessThanHundredTest
 dependency7.to=NumbersAreBothLessThanHundred
 dependency7.type=UsesDependency
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
 editor.fx.0.height=0
 editor.fx.0.width=0
 editor.fx.0.x=0
 editor.fx.0.y=0
-<<<<<<< HEAD
-objectbench.height=91
-objectbench.width=667
+objectbench.height=98
+objectbench.width=941
 package.divider.horizontal=0.6
-package.divider.vertical=0.8147448015122873
-package.editor.height=411
-package.editor.width=564
-package.editor.x=655
-package.editor.y=85
-package.frame.height=628
-package.frame.width=707
-package.numDependencies=9
-=======
-objectbench.height=95
-objectbench.width=859
-package.divider.horizontal=0.5481012658227848
-package.divider.vertical=0.8685567010309279
-package.editor.height=667
+package.divider.vertical=0.8646907216494846
+package.editor.height=664
 package.editor.width=1486
-package.editor.x=-8
-package.editor.y=-8
+package.editor.x=-92
+package.editor.y=102
 package.frame.height=876
 package.frame.width=1616
 package.numDependencies=7
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
 package.numTargets=18
 package.showExtends=true
 package.showUses=true
@@ -73,17 +47,10 @@ readme.y=10
 target1.height=50
 target1.name=NumbersAreBothLessThanHundredTest
 target1.showInterface=false
-<<<<<<< HEAD
-target1.type=UnitTestTargetJunit4
-target1.width=250
-target1.x=300
-target1.y=330
-=======
 target1.type=ClassTarget
-target1.width=270
-target1.x=10
-target1.y=220
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
+target1.width=250
+target1.x=40
+target1.y=370
 target10.association=LawOfRelativityTest
 target10.height=50
 target10.name=LawOfRelativity
@@ -100,35 +67,21 @@ target11.type=ClassTarget
 target11.width=160
 target11.x=70
 target11.y=50
-<<<<<<< HEAD
 target12.association=BiggestOneTest
-=======
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
 target12.height=50
 target12.name=BiggestOne
 target12.showInterface=false
 target12.type=ClassTarget
 target12.width=100
-<<<<<<< HEAD
-target12.x=57
-target12.y=257
-=======
 target12.x=160
 target12.y=280
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
 target13.height=50
 target13.name=BiggestOneTest
 target13.showInterface=false
 target13.type=UnitTestTargetJunit4
-<<<<<<< HEAD
 target13.width=100
-target13.x=87
-target13.y=227
-=======
-target13.width=120
-target13.x=10
-target13.y=340
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
+target13.x=190
+target13.y=250
 target14.height=50
 target14.name=ExerciseThreeTest
 target14.showInterface=false
@@ -151,35 +104,21 @@ target16.type=UnitTestTargetJunit4
 target16.width=210
 target16.x=300
 target16.y=20
-<<<<<<< HEAD
 target17.association=NumbersAreBothLessThanHundredTest
-=======
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
 target17.height=50
 target17.name=NumbersAreBothLessThanHundred
 target17.showInterface=false
 target17.type=ClassTarget
 target17.width=250
-<<<<<<< HEAD
-target17.x=270
-target17.y=360
-=======
 target17.x=10
 target17.y=400
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
 target18.height=50
 target18.name=TwoNumbersAreEquaTest
 target18.showInterface=false
 target18.type=UnitTestTargetJunit4
-<<<<<<< HEAD
 target18.width=160
-target18.x=260
-target18.y=240
-=======
-target18.width=190
-target18.x=10
-target18.y=210
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
+target18.x=40
+target18.y=250
 target2.association=ExerciseFourTest
 target2.height=50
 target2.name=ExerciseFour
@@ -232,19 +171,11 @@ target8.type=UnitTestTargetJunit4
 target8.width=160
 target8.x=100
 target8.y=20
-<<<<<<< HEAD
 target9.association=TwoNumbersAreEquaTest
-=======
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
 target9.height=50
 target9.name=TwoNumbersAreEqua
 target9.showInterface=false
 target9.type=ClassTarget
 target9.width=160
-<<<<<<< HEAD
-target9.x=230
-target9.y=270
-=======
 target9.x=10
 target9.y=280
->>>>>>> 96fd3c1808bab019bb725b678b1ac0ca8ea3fb81
