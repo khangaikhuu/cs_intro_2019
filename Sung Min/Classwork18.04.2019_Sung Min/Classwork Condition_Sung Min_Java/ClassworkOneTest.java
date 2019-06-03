@@ -14,4 +14,5 @@ public class ClassworkOneTest
         assertEquals(2, c1.getLoop(2));
         assertEquals(9, c1.getLoop(3));
     }
+    
 }
