@@ -23,35 +23,19 @@ dependency7.type=UsesDependency
 dependency8.from=addNumbersTest
 dependency8.to=addNumbers
 dependency8.type=UsesDependency
-<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
-editor.fx.0.height=0
-editor.fx.0.width=0
-editor.fx.0.x=0
-editor.fx.0.y=0
-objectbench.height=93
+editor.fx.0.height=738
+editor.fx.0.width=816
+editor.fx.0.x=392
+editor.fx.0.y=41
+objectbench.height=109
 objectbench.width=760
 package.divider.horizontal=0.6
-package.divider.vertical=0.8003992015968064
-package.editor.height=394
-package.editor.width=657
-package.editor.x=121
-package.editor.y=32
-package.frame.height=600
-=======
-editor.fx.0.height=38
-editor.fx.0.width=160
-editor.fx.0.x=-32000
-editor.fx.0.y=-32000
-objectbench.height=93
-objectbench.width=760
-package.divider.horizontal=0.6
-package.divider.vertical=0.8685939553219448
-package.editor.height=654
+package.divider.vertical=0.8475689881734559
+package.editor.height=638
 package.editor.width=670
-package.editor.x=0
-package.editor.y=0
+package.editor.x=83
+package.editor.y=116
 package.frame.height=860
->>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
 package.frame.width=800
 package.numDependencies=8
 package.numTargets=17
@@ -68,48 +52,29 @@ target1.name=Check100Test
 target1.showInterface=false
 target1.type=UnitTestTargetJunit4
 target1.width=80
-<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
-target1.x=220
-target1.y=300
-target10.association=addNumbersTest
-=======
 target1.x=100
 target1.y=460
 target10.association=PerimeterRectangleTest
->>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
 target10.height=50
 target10.name=addNumbers
 target10.showInterface=false
 target10.type=ClassTarget
-<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
-target10.width=110
-target10.x=400
-target10.y=60
-target11.association=PerimeterRectangleTest
-=======
 target10.width=150
 target10.x=70
 target10.y=190
 target11.association=addNumbersTest
->>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
 target11.height=50
 target11.name=PerimeterRectangle
 target11.showInterface=false
 target11.type=ClassTarget
-<<<<<<< HEAD:Yalguunaa Ganbaatar/Classwork23042019_Yalguunaa Ganbaatar/26042019_Yalguunaa Ganbaatar_Classwork/package.bluej
 target11.width=150
-target11.x=210
-target11.y=180
-=======
-target11.width=140
 target11.x=70
 target11.y=310
->>>>>>> ce029c7554ba867627cd067d5a10927fec5a8683:Radnaasedi/26042019_radnaasedi_classwork/package.bluej
 target12.height=50
 target12.name=addNumbersTest
 target12.showInterface=false
 target12.type=UnitTestTargetJunit4
-target12.width=140
+target12.width=150
 target12.x=100
 target12.y=280
 target13.association=calcSubtractionTest

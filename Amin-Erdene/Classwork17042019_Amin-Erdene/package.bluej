@@ -2,9 +2,34 @@
 dependency1.from=ClassworkConditionTest
 dependency1.to=ClassworkCondition
 dependency1.type=UsesDependency
-dependency2.from=ClassworkLoopTest
-dependency2.to=ClassworkLoop
+dependency2.from=ClassworkThreeTest
+dependency2.to=ClassworkThree
 dependency2.type=UsesDependency
+<<<<<<< HEAD
+dependency3.from=ClassworkLoopTest
+dependency3.to=ClassworkLoop
+dependency3.type=UsesDependency
+dependency4.from=ClassworkTwoTest
+dependency4.to=ClassworkTwo
+dependency4.type=UsesDependency
+dependency5.from=ClassworkConditionTest
+dependency5.to=ClassworkCondition
+dependency5.type=UsesDependency
+editor.fx.0.height=662
+editor.fx.0.width=692
+editor.fx.0.x=170
+editor.fx.0.y=89
+objectbench.height=103
+objectbench.width=370
+package.divider.horizontal=0.5993640699523053
+package.divider.vertical=0.78
+package.editor.height=370
+package.editor.width=535
+package.editor.x=46
+package.editor.y=66
+package.frame.height=600
+package.frame.width=665
+=======
 dependency3.from=ClassworkOneTest
 dependency3.to=ClassworkOne
 dependency3.type=UsesDependency
@@ -28,6 +53,7 @@ package.editor.x=388
 package.editor.y=0
 package.frame.height=735
 package.frame.width=697
+>>>>>>> a2c130aee4a9776be6709e1f5d8f1e3035718c70
 package.numDependencies=5
 package.numTargets=10
 package.showExtends=true

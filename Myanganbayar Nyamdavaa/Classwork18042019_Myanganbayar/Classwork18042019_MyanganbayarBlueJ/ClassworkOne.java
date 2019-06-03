@@ -1,11 +1,11 @@
 
 public class ClassworkOne
 {
-    private int a;
+    private int a = 1;
     
     public ClassworkOne (int a)
     {
-        int a = a;
+        a = a;
     }
     public int getA ()
     {
@@ -13,9 +13,10 @@ public class ClassworkOne
     }
     public int seta (int a)
     {
+        int b = 1;
         for (int i=1; i<= a; i++)
         {
-            a = a * 2;
+            b = b * a;
         }
         return a;
     }
